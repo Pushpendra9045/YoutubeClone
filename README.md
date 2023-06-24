@@ -10,7 +10,9 @@ Open the inde.html file in your preferred web browser.
 
 ## File Structure
 inde.html: The main HTML file that contains the structure of the web page.
+
 style.css: The CSS file that provides the styling for the web page.
+
 script.js: The JavaScript file that contains any additional functionality
 
 ## Contributing
