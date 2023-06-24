@@ -1,4 +1,4 @@
-#Youtube Clone
+##Youtube Clone
 This project is a clone of a video sharing platform. It consists of HTML, CSS, and JavaScript files.
 
 ##Usage
